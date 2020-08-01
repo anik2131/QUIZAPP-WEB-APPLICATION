@@ -28,7 +28,7 @@ Admin can add quizes questions within the quiz and also can update them.
           GO TO src/main/java > com.anik.springboot , Right Click on ZonixQuizappApplication.java and select Run As > Java Application.
 
 6. Once the project is successfully started , Go to your browser and type the url "http://localhost:8080/home" and your application will start working.
-7. To access the admin portal the userid is ADMIN-007 and password is ANIK-CHANA.s
+7. To access the admin portal the userid is ADMIN-007 and password is ANIK-CHANA.
 
 ---------------IF ERRORS EXISTS--------------
 
